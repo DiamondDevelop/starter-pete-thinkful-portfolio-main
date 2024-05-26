@@ -3,3 +3,5 @@ This repository project was created as an assement of current web development sk
 ## Purpouse
 - Updated CSS showcasing usage of flex-box, border-boxing, and assigning multiple elements a style.
 - Ensure HTML Elements are integrated seamlessly with css style.
+#### GitHub.io website address:
+* [https://diamonddevelop.github.io/starter-pete-thinkful-portfolio-main/](https://diamonddevelop.github.io/starter-pete-thinkful-portfolio-main/)
